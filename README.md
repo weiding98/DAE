@@ -17,5 +17,4 @@ Available Atari games can be found in the [`atari-py` ROMs folder](https://githu
 
 Acknowledgements
 ----------------
-This work is based on the implementation from 
-- [@Kaixhin](https://github.com/Kaixhin) for [Rainbow](https://github.com/Kaixhin/Rainbow)
+This work is based on the implementation of [Rainbow](https://github.com/Kaixhin/Rainbow) from [@Kaixhin](https://github.com/Kaixhin)
